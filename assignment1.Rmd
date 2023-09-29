@@ -40,7 +40,7 @@ runif(10)
 
 ```
 
-This drew 10 random numbers from the uniform distribution.
+This drew 10 random numbers from the uniform distribution. This completes the second exercise. 
 
 ## Appendix: All code in this assignment
 
